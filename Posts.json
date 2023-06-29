@@ -1,0 +1,72 @@
+{
+    "Posts": [
+        {
+            "authorID": "administrator",
+            "boardID": 3,
+            "content": "RT\n一時想不到怎麼寫\n求大神協助123",
+            "id": 0,
+            "pushes": [
+                {
+                    "authorID": "anotherAdministrator",
+                    "content": "台科同學?",
+                    "time": "05/26 23:52",
+                    "type": 1
+                },
+                {
+                    "authorID": "badGuy",
+                    "content": "自己的作業自己寫",
+                    "time": "05/26 23:55",
+                    "type": 2
+                },
+                {
+                    "authorID": "anotherAdministrator",
+                    "content": "派欸",
+                    "time": "05/26 23:57",
+                    "type": 3
+                },
+                {
+                    "authorID": "testAcc",
+                    "content": "MDFK",
+                    "time": "06/03 00:10",
+                    "type": 2
+                }
+            ],
+            "time": "Wed May 26 23:44:32 2021",
+            "title": "學校出了一個用C++寫批踢踢的作業.."
+        },
+        {
+            "authorID": "guest",
+            "boardID": 3,
+            "content": " ",
+            "id": 1,
+            "pushes": [
+                {
+                    "authorID": "anotherAdministrator",
+                    "content": "本推文已被刪除",
+                    "time": "05/26 23:57",
+                    "type": 3
+                },
+                {
+                    "authorID": "testAcc",
+                    "content": "本推文已被刪除",
+                    "time": "06/03 00:10",
+                    "type": 2
+                },
+                {
+                    "authorID": "guest",
+                    "content": "本推文已被刪除",
+                    "time": "06/03 02:43",
+                    "type": 1
+                },
+                {
+                    "authorID": "guest",
+                    "content": "本推文已被刪除",
+                    "time": "06/03 02:43",
+                    "type": 2
+                }
+            ],
+            "time": "Wed May 26 23:44:32 2021",
+            "title": "本文已被刪除"
+        }
+    ]
+}
